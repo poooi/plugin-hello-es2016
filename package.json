@@ -1,0 +1,8 @@
+{
+  "name": "poi-plugin-hello-es2016",
+  "version": "0.0.1",
+  "description": "Hello world! ES2016!",
+  "main": "index.es",
+  "dependencies": {
+  }
+}
